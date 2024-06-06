@@ -1,0 +1,38 @@
+{
+  "name": "graduation_design",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@vue/composition-api": "^1.7.2",
+    "ali-oss": "^6.20.0",
+    "axios": "^1.6.8",
+    "core-js": "^3.8.3",
+    "diff-match-patch": "^1.0.5",
+    "element-ui": "^2.15.14",
+    "v-code-diff": "^1.11.0",
+    "vue": "^2.6.14",
+    "vue-codemirror": "^4.0.6",
+    "vue-router": "^3.5.1",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "codemirror": "^5.65.16",
+    "highlight.js": "^11.9.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^10.1.0",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
